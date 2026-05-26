@@ -1,0 +1,40 @@
+1 alpha 10.5
+1 beta 20.3
+1 gamma 15.7
+1 delta 30.1
+1 epsilon 25.2
+1 zeta 5.6
+1 eta 18.9
+1 theta 42.1
+1 iota 33.4
+1 kappa 12.8
+1 lambda 28.5
+1 mu 7.3
+1 nu 22.6
+1 xi 35.9
+1 omicron 14.2
+1 pi 40.7
+1 rho 9.1
+1 sigma 27.4
+1 tau 3.8
+1 upsilon 38.2
+1 phi 16.5
+1 chi 31.8
+3
+4 sigma
+4 omega
+2 zeta
+4 zeta
+2 upsilon
+2 alpha
+3
+4 beta
+2 delta
+2 gamma
+2 iota
+2 lambda
+2 pi
+2 sigma
+4 tau
+3
+
